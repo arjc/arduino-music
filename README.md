@@ -16,7 +16,7 @@ You can try it out with other songs as well, if you have the right sheet music.
 ### Wiring
 Connect the buzzer's positive pin to digital pin **8** and its negative pin to **GND**. 
 if you use another suitable pin, update the `buzzer` variable.
-![Buzzer on the arduino](./img/buzz.png)
+![Buzzer on the arduino](./img/buzz.jpg)
 
 ### Howto play
 Upload the sketch to arudio using IDE, and the song shall play via the buzzer...
